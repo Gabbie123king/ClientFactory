@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CooperSmith.Client.FactoryService</id>
+    <version>1.0.0</version>
+    <authors>ClientFactory</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/gabrielmbwana/Downloads/Dependency/ClientFactory/bin/Release/net8.0/ClientFactory.dll" target="lib/net8.0/ClientFactory.dll" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+/Users/gabrielmbwana/Downloads/Dependency/ClientFactory/bin/Release/net8.0/ClientFactory.deps.json
+/Users/gabrielmbwana/Downloads/Dependency/ClientFactory/bin/Release/net8.0/ClientFactory.dll
+/Users/gabrielmbwana/Downloads/Dependency/ClientFactory/bin/Release/net8.0/ClientFactory.pdb
+/Users/gabrielmbwana/Downloads/Dependency/ClientFactory/obj/Release/net8.0/ClientFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielmbwana/Downloads/Dependency/ClientFactory/obj/Release/net8.0/ClientFactory.AssemblyInfoInputs.cache
+/Users/gabrielmbwana/Downloads/Dependency/ClientFactory/obj/Release/net8.0/ClientFactory.AssemblyInfo.cs
+/Users/gabrielmbwana/Downloads/Dependency/ClientFactory/obj/Release/net8.0/ClientFactory.csproj.CoreCompileInputs.cache
+/Users/gabrielmbwana/Downloads/Dependency/ClientFactory/obj/Release/net8.0/ClientFactory.dll
+/Users/gabrielmbwana/Downloads/Dependency/ClientFactory/obj/Release/net8.0/refint/ClientFactory.dll
+/Users/gabrielmbwana/Downloads/Dependency/ClientFactory/obj/Release/net8.0/ClientFactory.pdb
+/Users/gabrielmbwana/Downloads/Dependency/ClientFactory/obj/Release/net8.0/ref/ClientFactory.dll
